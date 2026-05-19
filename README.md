@@ -6,7 +6,7 @@
 
 ## 👋 About
 
-I'm an IT Project Management professional offering hands-on help to individuals and teams who need support with:
+I'm a Project Management professional offering hands-on help to individuals and teams who need support with:
 
 - Structuring and launching IT projects
 - Managing scope, timelines, and resources
